@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 274933948, guid: 23eee20a0e6671142bb2fa66baaf439b, type: 3}
+  m_Name: Random Trash Loot Config
+  m_EditorClassIdentifier: 
+  TrashLoot:
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 21f535ef656acb24ba2322a6acf6a813, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 3efd087fda2196044a3fef26608a61a6, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: daaaacba759e51748a9c8b6611e2c43e, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 14b795fc11723cf46aae78d0f9c9aa91, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: fb1c3344f3ff1b8419f94920c1146843, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: c7797f417bc6a0b45a3320f3b9dff6b3, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: e7099df5604e5df4a9b275e6efbf3702, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 5d2cefc0bcdcd6c4d92bc50634f25275, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 258b5b90ee0eff5448df1fc9155a8524, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 21e3f5303157c124fba4bc920be7b445, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 785cecccd0b3c3447adcb18e2776718a, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 2ad2becf90781e146a26895d963835ea, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: f9c94d9b39161074dbdf525f16018e80, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 98f6d3ab05316a045a3ad43a943b605e, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: d6eca22b68bcb294699b45dd25300b73, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: a2e93f6c03ac39444a801740b812274e, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 5381b0ec559a3c54986e83e1319e6300, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: c8bcf9edc18f1204dbff4f94f1444d92, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 69becfb64a1c3da41872898986f31098, type: 2}
+  - m_Type: 1
+    m_Item: {fileID: 0}
+    m_Loot: {fileID: 11400000, guid: 1b29c732cf1ebe74faf408e57a30815b, type: 2}

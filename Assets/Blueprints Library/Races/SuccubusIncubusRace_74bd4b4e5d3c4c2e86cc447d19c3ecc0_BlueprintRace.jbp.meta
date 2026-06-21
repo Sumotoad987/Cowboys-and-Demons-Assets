@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fcd72f6f69bae1a408d31c354cf30e8c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 74bd4b4e5d3c4c2e86cc447d19c3ecc0
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/SuccubusIncubusRace_74bd4b4e5d3c4c2e86cc447d19c3ecc0_BlueprintRace.jbp

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad98a0d72057c344f919202f265c0f57
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: fdb667c2b5f72a948bdf4438bf9cbcdd
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/StrikeTrueAbility.jbp

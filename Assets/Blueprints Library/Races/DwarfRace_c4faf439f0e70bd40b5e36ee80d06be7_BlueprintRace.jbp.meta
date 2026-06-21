@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ea42638c758de943b66557e2e646cc8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: c4faf439f0e70bd40b5e36ee80d06be7
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/DwarfRace_c4faf439f0e70bd40b5e36ee80d06be7_BlueprintRace.jbp

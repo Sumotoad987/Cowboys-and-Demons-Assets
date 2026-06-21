@@ -1,0 +1,59 @@
+{
+  "AssetId": "de716f8737c04ad4baea3458ed2f70b1",
+  "Data": {
+    "$type": "adc63a0dcf487a44c9c7e8ccb4b5fb33, BlueprintItemEquipmentHead",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_DisplayNameText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_DescriptionText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_FlavorText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_Cost": 10,
+    "m_Weight": 0.0,
+    "m_IsNotable": false,
+    "m_IsJunk": false,
+    "m_ForceStackable": false,
+    "m_Destructible": false,
+    "m_ShardItem": null,
+    "m_MiscellaneousType": "None",
+    "m_InventoryPutSound": "",
+    "m_InventoryTakeSound": "",
+    "NeedSkinningForCollect": false,
+    "TrashLootTypes": [],
+    "CR": 0,
+    "m_Ability": null,
+    "m_ActivatableAbility": null,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesOnRest": false,
+    "CasterLevel": 1,
+    "SpellLevel": 1,
+    "DC": 11,
+    "HideAbilityInfo": false,
+    "IsNonRemovable": false,
+    "m_EquipmentEntity": "!bp_80ed5afca4434807acdbfa3b7054a396",
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": 0,
+    "m_Enchantments": [],
+    "m_InventoryEquipSound": ""
+  }
+}

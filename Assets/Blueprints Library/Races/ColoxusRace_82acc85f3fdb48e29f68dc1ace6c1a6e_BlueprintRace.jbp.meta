@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc4411b5aff4f8946aebf8255bfba59f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 82acc85f3fdb48e29f68dc1ace6c1a6e
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/ColoxusRace_82acc85f3fdb48e29f68dc1ace6c1a6e_BlueprintRace.jbp

@@ -1,0 +1,363 @@
+{
+  "AssetId": "0a5d473ead98b0646b94495af250fdc4",
+  "Data": {
+    "$type": "9a3d49fbb9d4c174d8ec1090679fe3e3, BlueprintRace",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "9f5a3eb6-c751-4bd8-b56e-3cfc928dfc8e",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "ddc907bb-5206-4e48-b54a-05cc0b846c72",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "SoundKey": "Human",
+    "RaceId": "Human",
+    "SelectableRaceStat": true,
+    "Size": "Medium",
+    "m_Features": [
+      "!bp_247a4068296e8be42890143f451b4b45",
+      "!bp_3adf9274a210b164cb68f472dc1e4544"
+    ],
+    "m_Presets": [
+      "!bp_58181bf151eb0c0408f82546541dcc03",
+      "!bp_10d74847c1492bf428b462f948e69d4f",
+      "!bp_e03b9c63971878743b8f53bdf14673ee"
+    ],
+    "LinkHairAndSkinColorsCondition": null,
+    "MaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "4eea3ef5f2e01474ba5b03fe28324ad3"
+        },
+        {
+          "AssetId": "b4391c415e9de0f4d9a30d2d0f8ea09b"
+        },
+        {
+          "AssetId": "08f56c3654d2d424a8cf05d656a07bbe"
+        },
+        {
+          "AssetId": "9149601d28921464ab3e8fe0ecd3b462"
+        },
+        {
+          "AssetId": "913b11311ec6b9f48bfa23d1f3423154"
+        },
+        {
+          "AssetId": "61ea9d574de4145469fdf7db7f83c951"
+        },
+        {
+          "AssetId": "1649a6cb92729d547a0798d3eb655e13"
+        },
+        {
+          "AssetId": "ad54ad44f7a4b404cbab88825d84e7b2"
+        },
+        {
+          "AssetId": "554fe1a46ebf83d40a461eb355c290f1"
+        },
+        {
+          "AssetId": "6b509ef0e9ae4fe468d7a72e9a8b6612"
+        },
+        {
+          "AssetId": "80f9866c56cea9342a354636154d0fae"
+        },
+        {
+          "AssetId": "9c086c7c230d1b34f963e3a3f843fb7f"
+        }
+      ],
+      "m_Eyebrows": [
+        {
+          "AssetId": "3714b9226b0ca694185f1dfc58163aac"
+        },
+        {
+          "AssetId": "270c431237f65f74e95eb54939c313bf"
+        },
+        {
+          "AssetId": "ffa5f7d7ba3c1e949b856bd93c0fd657"
+        },
+        {
+          "AssetId": "d5de06117150dfd49996c1b39a6f911e"
+        },
+        {
+          "AssetId": "bdcb8b8da31f11d4d9ab509b6da6798c"
+        },
+        {
+          "AssetId": "29d1fcc93ce41134fa0a3b658c309fc0"
+        },
+        {
+          "AssetId": "1715ed841a65d3a47a83b0ece039fa02"
+        },
+        {
+          "AssetId": "e3597c16fff925448b82e661dab5b00b"
+        },
+        {
+          "AssetId": "b4f44953d39f5cb4ab5c291935d5e374"
+        },
+        {
+          "AssetId": "a049bb2e2fc4c2444ac5a76adfd8da96"
+        },
+        {
+          "AssetId": "3fdfe900b2f16c142a23a707ed8b28ad"
+        },
+        {
+          "AssetId": "1122ed4b4494a884f922245c5bf1cd50"
+        }
+      ],
+      "m_Hair": [
+        {
+          "AssetId": "ee3945f41269aed4b9fcb6304c3fda79"
+        },
+        {
+          "AssetId": "def666224ba24df4e954c03049b29a53"
+        },
+        {
+          "AssetId": "329cf540a8faed64284c067bace8bbc9"
+        },
+        {
+          "AssetId": "88c2650d77d9a3c4a8a861fa0d8d0aae"
+        },
+        {
+          "AssetId": "7e499d0408e81f545989c7379225756d"
+        },
+        {
+          "AssetId": "303578a648d8d344b8d3a9a94fe24d5a"
+        },
+        {
+          "AssetId": "739bcec114cc0974bbe60990afc9f8fd"
+        },
+        {
+          "AssetId": "609143dbf7607f6419babaf5748b82dc"
+        },
+        {
+          "AssetId": "222890293b0f66145a400eae3432868d"
+        },
+        {
+          "AssetId": "128110ed2a1f2f2438f690b1850149d7"
+        },
+        {
+          "AssetId": "3e4bb0a0defe2f74e9fb07ee4fb68d8f"
+        },
+        {
+          "AssetId": "acdcfd7609f88ae49833e4f10656190e"
+        },
+        {
+          "AssetId": "b85db19d7adf6aa48b5dd2bb7bfe1502"
+        }
+      ],
+      "Beards": [
+        {
+          "AssetId": "b85db19d7adf6aa48b5dd2bb7bfe1502"
+        },
+        {
+          "AssetId": "e2216e3822f431a4d832ad28884db6dc"
+        },
+        {
+          "AssetId": "540a424d8a2c3a849bd7fbe0504e0f36"
+        },
+        {
+          "AssetId": "c2d4658f29508d64cadca4248b2e1863"
+        },
+        {
+          "AssetId": "5c33644cfc212154e850936bd88018ea"
+        },
+        {
+          "AssetId": "a6db66ee24fcbed45ba327acac99a7b7"
+        },
+        {
+          "AssetId": "37335873fb751fd4d9bc55005afe010c"
+        },
+        {
+          "AssetId": "372ace9cdb7b74a49aa143a28a5a3dd8"
+        },
+        {
+          "AssetId": "a7b45e988928aef4c880f07fa5de24d9"
+        }
+      ],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "FemaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "971d4ec9ff97af447b415c8eb4c5b0b5"
+        },
+        {
+          "AssetId": "536cf2cb6e39c01478ec2230865aa34f"
+        },
+        {
+          "AssetId": "022cceb94e2e34f4298f1a69e5402967"
+        },
+        {
+          "AssetId": "5bc92526cbe57564f96530aefe05e4c6"
+        },
+        {
+          "AssetId": "deb27e32c600dcc42ab7641de03a3fa8"
+        },
+        {
+          "AssetId": "1709c29af3fd6634cbcc4cf1a24dd8ee"
+        },
+        {
+          "AssetId": "55559eae6e70ef84c879803b7acecb5a"
+        },
+        {
+          "AssetId": "f0ae81a538f807f46816f8cb78709115"
+        },
+        {
+          "AssetId": "d4dc8479fcc84784c92e6e779dd25493"
+        },
+        {
+          "AssetId": "02ac1a008378ca54e86830e7c949b80d"
+        },
+        {
+          "AssetId": "92baa745e0d29c641bd0525efd76f37c"
+        },
+        {
+          "AssetId": "52a7bdb6964f65a41b735635a2513edd"
+        }
+      ],
+      "m_Eyebrows": [
+        {
+          "AssetId": "6831469a4e2bc664f9622bdfbf5ed30c"
+        },
+        {
+          "AssetId": "9cd0bfaa032d25c42b796427d261e67b"
+        },
+        {
+          "AssetId": "01eba6553e2c24e45a81ded03dd6b09e"
+        },
+        {
+          "AssetId": "59b3949189a066d4298a6b39348613e9"
+        },
+        {
+          "AssetId": "22f54993daa9e2445b8d66ae3858fa1c"
+        },
+        {
+          "AssetId": "1b65443c1d64a5e498ba5a0978448694"
+        },
+        {
+          "AssetId": "0e10c614b32622f42aba82f5392ef69f"
+        },
+        {
+          "AssetId": "c21fdfab8811f854e9c6a30c86963049"
+        },
+        {
+          "AssetId": "97144baadf90eaf4b8ae10551d9e94e8"
+        },
+        {
+          "AssetId": "c2f29b22df77f0542b6e4a72b323858c"
+        },
+        {
+          "AssetId": "44e188f73b4f8684d945d61766cfcfef"
+        },
+        {
+          "AssetId": "0671abed8e0232d42adbe7cc006334bb"
+        }
+      ],
+      "m_Hair": [
+        {
+          "AssetId": "16befdf0bdb05424891138d02a718848"
+        },
+        {
+          "AssetId": "7709e5f38fb90814888406e3409b66a7"
+        },
+        {
+          "AssetId": "fc3fc0e45a70a0e42b6aed10baf794f0"
+        },
+        {
+          "AssetId": "37c94a80df80dd944a85ce72d0cd7b22"
+        },
+        {
+          "AssetId": "c229d194613b246449ea3a57bb615681"
+        },
+        {
+          "AssetId": "fb79b0f415a030f4b9983e61b7d480fa"
+        },
+        {
+          "AssetId": "30d504db6b8cbe94dbc82d2437c8b468"
+        },
+        {
+          "AssetId": "f32da5106fa223844b88c426e36b5821"
+        },
+        {
+          "AssetId": "3fa56cc5d206ca142bde8f93ad089a02"
+        },
+        {
+          "AssetId": "a7848ed746958e74ab7e9549dd4db16c"
+        },
+        {
+          "AssetId": "db6e295d58b7a6a4686fa4c4b5b4b527"
+        },
+        {
+          "AssetId": "1f19aaaa1870e2b4b8bd99d36211ddf6"
+        },
+        {
+          "AssetId": "b40cf766b28e512438678fc9e2aa34f1"
+        },
+        {
+          "AssetId": "779458079f7718c4bb960d9cef195339"
+        },
+        {
+          "AssetId": "b85db19d7adf6aa48b5dd2bb7bfe1502"
+        }
+      ],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "MaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 2.0,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 1.8,
+      "OverrideNormal": true,
+      "NormalCoeff": 0.85,
+      "OverrideNormalNonCombat": true,
+      "NormalNonCombatCoeff": 0.85,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.5,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "FemaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 2.1,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 1.8,
+      "OverrideNormal": true,
+      "NormalCoeff": 0.87,
+      "OverrideNormalNonCombat": true,
+      "NormalNonCombatCoeff": 0.87,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.5,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "SpecialDollTypes": []
+  }
+}

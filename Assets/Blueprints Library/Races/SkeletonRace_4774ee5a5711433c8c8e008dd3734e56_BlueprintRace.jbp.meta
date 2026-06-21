@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2093b3663297014997ebb1b34357afc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 4774ee5a5711433c8c8e008dd3734e56
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/SkeletonRace_4774ee5a5711433c8c8e008dd3734e56_BlueprintRace.jbp

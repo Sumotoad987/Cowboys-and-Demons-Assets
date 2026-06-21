@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a272a897d2408242b110a7efc76bd07
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 64e8b7d5f1ae91d45bbf1e56a3fdff01
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/DhampirRace_64e8b7d5f1ae91d45bbf1e56a3fdff01_BlueprintRace.jbp

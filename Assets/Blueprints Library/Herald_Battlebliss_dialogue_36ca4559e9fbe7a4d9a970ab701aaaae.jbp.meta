@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b6f325d202abc24a9dd1296053f7906
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 36ca4559e9fbe7a4d9a970ab701aaaae
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/Herald_Battlebliss_dialogue_36ca4559e9fbe7a4d9a970ab701aaaae.jbp

@@ -1,0 +1,194 @@
+{
+  "AssetId": "980bed7f6d9e4c33a86b95d199eb4934",
+  "Data": {
+    "$type": "9a3d49fbb9d4c174d8ec1090679fe3e3, BlueprintRace",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": [],
+    "SoundKey": "",
+    "RaceId": "Human",
+    "SelectableRaceStat": false,
+    "Size": "Medium",
+    "m_Features": [],
+    "m_Presets": [
+      "!bp_ceeee489e9ab43e79fea6ae432dd8738"
+    ],
+    "LinkHairAndSkinColorsCondition": null,
+    "MaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "6b3a5fb88dbe8d34a867a8608bfd884e"
+        }
+      ],
+      "m_Eyebrows": [
+        {
+          "AssetId": "b4e2f0626da730d4d94a155ca188fd95"
+        }
+      ],
+      "m_Hair": [
+        {
+          "AssetId": "def666224ba24df4e954c03049b29a53"
+        },
+        {
+          "AssetId": "0e8477fa2766c9948b324277a4a62464"
+        },
+        {
+          "AssetId": "be625dc3da06a564888c325938ca7e41"
+        },
+        {
+          "AssetId": "88c2650d77d9a3c4a8a861fa0d8d0aae"
+        },
+        {
+          "AssetId": "7e499d0408e81f545989c7379225756d"
+        },
+        {
+          "AssetId": "303578a648d8d344b8d3a9a94fe24d5a"
+        },
+        {
+          "AssetId": "739bcec114cc0974bbe60990afc9f8fd"
+        },
+        {
+          "AssetId": "609143dbf7607f6419babaf5748b82dc"
+        },
+        {
+          "AssetId": "222890293b0f66145a400eae3432868d"
+        }
+      ],
+      "Beards": [],
+      "Horns": [
+        {
+          "AssetId": "89d5c728d197b1344bf942b4ef55f0a1"
+        },
+        {
+          "AssetId": "d4f6c34e0812b0840aeb365a04032be9"
+        }
+      ],
+      "TailSkinColors": []
+    },
+    "FemaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "adf16fac763c9c542bdc7023deaed992"
+        }
+      ],
+      "m_Eyebrows": [
+        {
+          "AssetId": "6ddf1cc3e70191d4686459521c724d49"
+        }
+      ],
+      "m_Hair": [
+        {
+          "AssetId": "ae5a13adfc75b7048b1c84dd4eae56b3"
+        },
+        {
+          "AssetId": "fc3fc0e45a70a0e42b6aed10baf794f0"
+        },
+        {
+          "AssetId": "ad6c23c1e8e7e374b9864dea8fcc381d"
+        },
+        {
+          "AssetId": "2138e447019e0054ea50b839771a55db"
+        },
+        {
+          "AssetId": "c229d194613b246449ea3a57bb615681"
+        },
+        {
+          "AssetId": "fb79b0f415a030f4b9983e61b7d480fa"
+        },
+        {
+          "AssetId": "16befdf0bdb05424891138d02a718848"
+        },
+        {
+          "AssetId": "30d504db6b8cbe94dbc82d2437c8b468"
+        },
+        {
+          "AssetId": "f32da5106fa223844b88c426e36b5821"
+        },
+        {
+          "AssetId": "3fa56cc5d206ca142bde8f93ad089a02"
+        },
+        {
+          "AssetId": "a7848ed746958e74ab7e9549dd4db16c"
+        },
+        {
+          "AssetId": "db6e295d58b7a6a4686fa4c4b5b4b527"
+        },
+        {
+          "AssetId": "1f19aaaa1870e2b4b8bd99d36211ddf6"
+        }
+      ],
+      "Beards": [],
+      "Horns": [
+        {
+          "AssetId": "ab044ce99b5322a4980b1e05ec27ee4c"
+        },
+        {
+          "AssetId": "72a085c1a2b697f4f95f6a54f315bd51"
+        }
+      ],
+      "TailSkinColors": []
+    },
+    "MaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": false,
+      "SlowWalkCoeff": 1.0,
+      "OverrideSlowWalkNonCombat": false,
+      "SlowWalkNonCombatCoeff": 1.0,
+      "OverrideNormal": false,
+      "NormalCoeff": 1.0,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": false,
+      "ChargeCoeff": 1.0,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "FemaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": false,
+      "SlowWalkCoeff": 1.0,
+      "OverrideSlowWalkNonCombat": false,
+      "SlowWalkNonCombatCoeff": 1.0,
+      "OverrideNormal": false,
+      "NormalCoeff": 1.0,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": false,
+      "ChargeCoeff": 1.0,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "SpecialDollTypes": []
+  }
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 004d6840d23b73f45b04012727204e3d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: b3646842ffbd01643ab4dac7479b20b0
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/HalfElfRace_b3646842ffbd01643ab4dac7479b20b0_BlueprintRace.jbp

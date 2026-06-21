@@ -1,0 +1,10 @@
+{
+  "name": "com.owlcat.visual",
+  "version": "1.0.0",
+  "displayName": "Owlcat Visual",
+  "description": "Owlcat Visual Package",
+  "hideInEditor": false,
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 77655131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bf3826c0a7fabf7afa255da56c3abce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac949eb84636649eb4ee333dd5211362
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1270542114, guid: d85028bfa64f05443abb1a305078a97c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Modifications/Test/ScriptableShaderWrapperInstance.asset
+Dependencies:
+- "C:/UnityProjects/WrathModificationTemplateMain \u2014 \u043A\u043E\u043F\u0438\u044F/Assets/AssetBundles/shaders"

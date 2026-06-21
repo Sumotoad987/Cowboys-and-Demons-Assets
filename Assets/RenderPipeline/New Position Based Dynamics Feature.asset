@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 302f822bdfc22aa49847173aa1a9fb47, type: 3}
+  m_Name: New Position Based Dynamics Feature
+  m_EditorClassIdentifier: 
+  m_Shaders:
+    PBDSingleDispatchSimulatorShader: {fileID: 7200000, guid: 5756630e48b28ff4f96c4f82c43bd887,
+      type: 3}
+    PBDCollision: {fileID: 7200000, guid: 21b3e062eff4a8c48a981805bae81ddb, type: 3}
+    PBDForceVolume: {fileID: 7200000, guid: f8e228395b770a4439089dd50b2f2bd5, type: 3}
+    PBDSkinningShader: {fileID: 7200000, guid: 5c20147e901e4f043a56a50edf595192, type: 3}
+    PBDMeshShader: {fileID: 7200000, guid: 614c37ed984b2fa4d94a7a75780679ca, type: 3}
+    PBDBodyAabbShader: {fileID: 7200000, guid: 8550b5cf786e221469e513c441ab9d3d, type: 3}
+    PBDParticlesDebugShader: {fileID: 4800000, guid: 90099e6469abcf045a1b8d2e4a86965a,
+      type: 3}
+    PBDConstraintDebugShader: {fileID: 0}
+    PBDDebug: {fileID: 0}
+    RadixSortCS: {fileID: 0}
+    HashtableCS: {fileID: 7200000, guid: ac41d5075b770e64fa83c91655d47a31, type: 3}
+    SpatialHashingCS: {fileID: 0}
+    CameraCullingCS: {fileID: 7200000, guid: 74ef5c1227118004889b6a0b5676158f, type: 3}
+  m_DebugSettings:
+    Enabled: 0
+    ParticleSize: 0.1
+    ParticleColor: {r: 1, g: 0, b: 0, a: 1}
+    ConstraintColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    ShowNormals: 0
+    NormalsColor: {r: 0, g: 0, b: 1, a: 1}
+    ShowCollidersAabb: 0
+    ShowCollidersGrid: 0
+    ShowForceVolumesAabb: 0
+    ShowForceVolumesGrid: 0

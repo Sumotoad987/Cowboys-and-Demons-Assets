@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3724778364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03d248e5e9cf6456056c0056bdb36ddf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Lit/Lit.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Decals/FullScreen.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Decals/ProjectorGUI.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Terrain/Terrain.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Decals/Projector.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Unlit/Unlit.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Water/Water.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Decals/ProjectorDebug.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Particles/Particles.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Skybox/Skybox-Cubed.shader
+- Assets/RenderPipeline/OwlcatShaders/Shaders/Decals/ScreenSpaceDecalsUtils.shader
+Dependencies: []

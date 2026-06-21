@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6b29cbbc4001f14bab15c16fe5d811a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: f414c5b12f2296c41901e71b889ef436
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/WildHuntRace_Fake_f414c5b12f2296c41901e71b889ef436_BlueprintRace.jbp

@@ -1,0 +1,129 @@
+{
+  "AssetId": "9d168ca7100e9314385ce66852385451",
+  "Data": {
+    "$type": "9a3d49fbb9d4c174d8ec1090679fe3e3, BlueprintRace",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$236c9dea-5293-4dde-a02e-3c452d956e15",
+        "Descriptor": "Racial",
+        "Stat": "Dexterity",
+        "Value": 4,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$7d1e1c79-ac50-450b-85bc-37537f431b0a",
+        "Descriptor": "Racial",
+        "Stat": "Charisma",
+        "Value": -2,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$a8179354-494b-4615-b9a3-567d83d7d3cf",
+        "Descriptor": "Racial",
+        "Stat": "Strength",
+        "Value": -2,
+        "ScaleByBasicAttackBonus": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "ca6f2b43-4f05-4a80-a191-94e6712578b2",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "c90b8fc7-ffac-41a1-92be-20a21b6e2dce",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "SoundKey": "Goblin",
+    "RaceId": "Goblin",
+    "SelectableRaceStat": false,
+    "Size": "Small",
+    "m_Features": [
+      "!bp_610652378253d3845bb70f005c084daa",
+      "!bp_9c747d24f6321f744aa1bb4bd343880d"
+    ],
+    "m_Presets": [
+      "!bp_b0d1b9d4f75b12549bb23be18f8d1101",
+      "!bp_c36a21a9ae32e80428133d330fbf9876",
+      "!bp_292633cc8a5df554aa49f96a47f39d81"
+    ],
+    "LinkHairAndSkinColorsCondition": null,
+    "MaleOptions": {
+      "m_Heads": [],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "FemaleOptions": {
+      "m_Heads": [],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "MaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 3.8,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 3.45,
+      "OverrideNormal": true,
+      "NormalCoeff": 1.6,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.9,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": true,
+      "StealthCoeff": 3.8,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "FemaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 4.15,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 3.7,
+      "OverrideNormal": true,
+      "NormalCoeff": 1.7,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": true,
+      "ChargeCoeff": 1.0,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": true,
+      "StealthCoeff": 4.15,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "SpecialDollTypes": []
+  }
+}

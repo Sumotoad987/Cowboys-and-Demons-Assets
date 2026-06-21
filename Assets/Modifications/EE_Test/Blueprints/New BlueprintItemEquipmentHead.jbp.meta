@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7474ba240c24f454bb78246767a748f7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 7474ba240c24f454bb78246767a748f7
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Modifications/EE_Test/Blueprints/New BlueprintItemEquipmentHead.jbp

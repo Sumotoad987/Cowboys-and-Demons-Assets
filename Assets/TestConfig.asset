@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30da913478a339341b5d750b4095ad67, type: 3}
+  m_Name: TestConfig
+  m_EditorClassIdentifier: 
+  offsets:
+  - Races:
+    - guid: b7f02ba92b363064fb873963bec275ee
+    - guid: 0a5d473ead98b0646b94495af250fdc4
+    RootPosition: {x: -0.8, y: -0.9, z: 0}
+    RootBattlePosition: {x: 0, y: 0, z: 0}
+    SaddleRootPosition: {x: 0, y: 0, z: 0}
+    SaddleRootScale: {x: 1, y: 1, z: 1}
+    SaddleRootRotation: {x: 0, y: 0, z: 0, w: 0}
+    PelvisPosition: {x: 0, y: -0.15, z: 0}
+    PelvisRotation: {x: 0, y: 0, z: 0, w: 1}
+    LeftFootPosition: {x: 0, y: 0.6, z: 0.2}
+    LeftFootRotation: {x: 0.3728998, y: -0.63229966, z: 0.063499965, w: -0.6760996}
+    LeftKneePosition: {x: -0.3, y: -0.2, z: 0.2}
+    RightFootPosition: {x: 0, y: 0.6, z: -0.2}
+    RightFootRotation: {x: -0.70370144, y: -0.15170032, z: -0.6364013, w: -0.27710056}
+    RightKneePosition: {x: -0.3, y: -0.2, z: -0.2}
+    HandsPosition: {x: -0.61, y: -0.19, z: -0.06}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7

@@ -1,0 +1,125 @@
+{
+  "AssetId": "9fde0cebe3ec77648b109df71f480d1a",
+  "Data": {
+    "$type": "c00f723cccf2d314198c42a572c631fd, BlueprintItemWeapon",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_DisplayNameText": {
+      "m_Key": "",
+      "Shared": null,
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionText": {
+      "m_Key": "",
+      "Shared": null,
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_FlavorText": {
+      "m_Key": "",
+      "Shared": null,
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "Shared": null,
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "Shared": null,
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "m_Cost": 75,
+    "m_Weight": 0.0,
+    "m_IsNotable": false,
+    "m_IsJunk": false,
+    "m_ForceStackable": false,
+    "m_Destructible": false,
+    "m_ShardItem": null,
+    "m_MiscellaneousType": "None",
+    "m_InventoryPutSound": "",
+    "m_InventoryTakeSound": "",
+    "NeedSkinningForCollect": false,
+    "TrashLootTypes": [],
+    "CR": 0,
+    "m_Ability": null,
+    "m_ActivatableAbility": null,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesOnRest": false,
+    "CasterLevel": 1,
+    "SpellLevel": 1,
+    "DC": 11,
+    "HideAbilityInfo": false,
+    "IsNonRemovable": false,
+    "m_EquipmentEntity": null,
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": 0,
+    "m_VisualParameters": {
+      "m_Projectiles": [],
+      "m_WeaponAnimationStyle": "None",
+      "m_SpecialAnimation": "None",
+      "m_WeaponModel": null,
+      "m_WeaponBeltModelOverride": null,
+      "m_WeaponSheathModelOverride": null,
+      "m_OverrideAttachSlots": false,
+      "m_PossibleAttachSlots": [],
+      "m_ReachFXThresholdBonus": 0.0,
+      "m_SoundSize": "None",
+      "m_SoundType": "None",
+      "m_WhooshSound": "",
+      "m_MissSoundType": "None",
+      "m_EquipSound": "",
+      "m_UnequipSound": "",
+      "m_InventoryEquipSound": "",
+      "m_InventoryPutSound": "",
+      "m_InventoryTakeSound": ""
+    },
+    "m_Type": "!bp_5f824fbb0766a3543bbd6ae50248688f",
+    "m_Size": "Large",
+    "m_Enchantments": [],
+    "m_OverrideDamageDice": false,
+    "m_DamageDice": {
+      "m_Rolls": 0,
+      "m_Dice": "Zero"
+    },
+    "m_OverrideDamageType": false,
+    "m_DamageType": {
+      "Type": "Physical",
+      "Common": {
+        "Reality": 0,
+        "Alignment": 0,
+        "Precision": false
+      },
+      "Physical": {
+        "Material": 0,
+        "Form": "Slashing",
+        "Enhancement": 0,
+        "EnhancementTotal": 0
+      },
+      "Energy": "Fire"
+    },
+    "CountAsDouble": false,
+    "Double": false,
+    "m_SecondWeapon": null,
+    "KeepInPolymorph": false,
+    "m_OverrideShardItem": false,
+    "m_OverrideDestructible": false,
+    "m_AlwaysPrimary": false,
+    "m_IsCanChangeVisualOverriden": false,
+    "m_CanChangeVisual": false
+  }
+}

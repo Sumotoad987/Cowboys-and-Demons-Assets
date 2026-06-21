@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c38ea03293dd61143985041508f742f3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 0a5d473ead98b0646b94495af250fdc4
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/HumanRace_0a5d473ead98b0646b94495af250fdc4_BlueprintRace.jbp

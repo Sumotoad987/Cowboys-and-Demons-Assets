@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2d2a1f7c782b224494ff32edd52c040
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: c2d2a1f7c782b224494ff32edd52c040
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/New BlueprintCharacterClass.jbp

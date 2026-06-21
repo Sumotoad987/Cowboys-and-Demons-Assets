@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lit-default
+  m_Shader: {fileID: 4800000, guid: 222b820ce1ddd0649b7c8cfcf101ee4f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses:
+  - DistortionVectors
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AdditionalAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorAlphaRamp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveNoiseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MasksMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise0Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise1Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PosVatMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RotVatMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AdditionalAlbedoAlphaScale: 1
+    - _AdditionalAlbedoColorClamp: 1
+    - _AdditionalAlbedoColorScale: 1
+    - _AdditionalAlbedoEnabled: 0
+    - _AdditionalAlbedoFactor: 0
+    - _AffectsAlbedo: 0
+    - _AffectsEmission: 1
+    - _AffectsMetallic: 0
+    - _AffectsNormals: 0
+    - _AffectsRoughness: 0
+    - _AlbedoWriteMask: 0
+    - _AlphaScale: 1
+    - _Alphatest: 0
+    - _BaseColorBlending: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _ColorAlphaRampEnabled: 0
+    - _CullMode: 2
+    - _Cutoff: 0.5
+    - _DecalExpGradient: 0
+    - _DecalGradientMode: 0
+    - _DecalSlopeFadePower: 1
+    - _DecalSlopeFadeStart: 1
+    - _DecalSlopeHardEdgeNormalFactor: 0
+    - _Dissolve: 0
+    - _DissolveColorScale: 1
+    - _DissolveCutout: 1
+    - _DissolveEmission: 1
+    - _DissolveEnabled: 0
+    - _DissolveNoiseScale: 1
+    - _DissolveWidth: 0.1
+    - _Distortion: 1
+    - _DistortionColorFactor: 0.5
+    - _DistortionDoesNotUseAlpha: 1
+    - _DistortionEnabled: 0
+    - _DistortionThicknessScale: 1
+    - _DoubleSided: 0
+    - _DoubleSidedNormalMode: 1
+    - _DstBlend: 0
+    - _Emission: 1
+    - _EmissionAlbedoSuppression: 0
+    - _EmissionColorFactor: 1
+    - _EmissionColorScale: 1
+    - _EmissionColorScaleMeta: 1
+    - _EmissionEnabled: 1
+    - _EmissionMapUsage: 0
+    - _EmissionWriteMask: 14
+    - _EnvironmentReflections: 1
+    - _GpuSkinning: 0
+    - _GradientFade: 0
+    - _GroundColorPower: 1
+    - _HdrColorScale: 1
+    - _IndirectIstancing: 0
+    - _LightmapEmissionFlags: 0
+    - _MainTex1Weight: 1
+    - _MasksWriteMask: 0
+    - _Metallic: 0
+    - _Noise0Enabled: 0
+    - _Noise0Scale: 0
+    - _Noise1Enabled: 0
+    - _Noise1Scale: 0
+    - _NoiseUvCorrectionEnabled: 0
+    - _NormalsWriteMask: 0
+    - _OccludedObjectClip: 0
+    - _OccludedObjectHighlighting: 0
+    - _OccluderObjectOpacity: 1
+    - _PbdMode: 0
+    - _QueueOffset: 0
+    - _RadialAlphaEnabled: 0
+    - _RadialAlphaGradientPower: 1
+    - _RadialAlphaGradientStart: 1
+    - _RadialAlphaSubstract: 0
+    - _RampAlbedoWeight: 0
+    - _RampScrollSpeed: 0
+    - _ReceiveDecals: 0
+    - _ReceiveShadows: 1
+    - _RimLighting: 0
+    - _RimPower: 1
+    - _Roughness: 1
+    - _SlopeFade: 0
+    - _SpecialPostprocessFlag: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _StencilRef: 0
+    - _SubstractAlphaFlag: 0
+    - _Surface: 0
+    - _Tex1Enabled: 0
+    - _Tex1MixMode: 1
+    - _Thickness: 1
+    - _Translucent: 0
+    - _UseGroundColor: 0
+    - _UvMapping: 0
+    - _VaEdgeFlutter: 0
+    - _VaPrimaryFactor: 0
+    - _VaSecondaryFactor: 0
+    - _VatCurrentFrame: 0
+    - _VatEnabled: 0
+    - _VatLerp: 0
+    - _VatNumOfFrames: 0
+    - _VatPivMax: 0
+    - _VatPivMin: 0
+    - _VatPosMax: 0
+    - _VatPosMin: 0
+    - _VatType: 0
+    - _VertexAnimationEnabled: 0
+    - _WrapDiffuseFactor: 0
+    - _ZTest: 3
+    - _ZWrite: 1
+    m_Colors:
+    - _AdditionalAlbedoColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DissolveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
+    - _EmissionColor: {r: 1, g: 0.3915094, b: 0.3915094, a: 1}
+    - _EmissionUVSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _Noise0Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _Noise1Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TranslucencyColor: {r: 1, g: 1, b: 1, a: 1}
+    - _UV0Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _UV1Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _VaFrequencies: {r: 1.975, g: 0.793, b: 0.375, a: 0.193}
+  m_BuildTextureStacks: []

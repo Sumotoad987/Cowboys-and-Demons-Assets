@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23fb89fc98658e341baa7279a469f9c9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 1dc20e195581a804890ddc74218bfd8e
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/HalfOrcRace_1dc20e195581a804890ddc74218bfd8e_BlueprintRace.jbp

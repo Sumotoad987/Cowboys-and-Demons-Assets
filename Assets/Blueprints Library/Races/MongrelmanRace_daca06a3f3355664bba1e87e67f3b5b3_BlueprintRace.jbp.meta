@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef4ffcb6fd9265145ac94df87d88ae23
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: daca06a3f3355664bba1e87e67f3b5b3
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/MongrelmanRace_daca06a3f3355664bba1e87e67f3b5b3_BlueprintRace.jbp

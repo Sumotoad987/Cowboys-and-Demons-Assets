@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da3ba39cd35be274a90bf361570f78a3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: fd188bb7bb0002e49863aec93bfb9d99
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/KitsuneRace_fd188bb7bb0002e49863aec93bfb9d99_BlueprintRace.jbp

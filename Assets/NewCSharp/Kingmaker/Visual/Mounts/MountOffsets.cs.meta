@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d59b16aedfc7b1448afd60981ac687bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CurrentRace: {instanceID: 0}
+  - OffsetsConfig: {instanceID: 0}
+  - MediumOffsetsConfig: {fileID: 11400000, guid: 40c683c276b3a77428b3ed8a1e1e7558,
+      type: 2}
+  - LargeOffsetsConfig: {fileID: 11400000, guid: 168f654c869d77d488dcea39358afc51,
+      type: 2}
+  - HugeOffsetsConfig: {fileID: 11400000, guid: 72852d222a99d1b4187d884a24653c2d,
+      type: 2}
+  - Root: {instanceID: 0}
+  - RootBattle: {instanceID: 0}
+  - PelvisIkTarget: {instanceID: 0}
+  - LeftFootIkTarget: {instanceID: 0}
+  - LeftKneeIkTarget: {instanceID: 0}
+  - RightFootIkTarget: {instanceID: 0}
+  - RightKneeIkTarget: {instanceID: 0}
+  - Hands: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

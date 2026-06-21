@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4927d62046e04b14c8ebebb7135cac80
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: dac8d342ca2148cab066b822506c14a2
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/SarcorianChildRace_dac8d342ca2148cab066b822506c14a2_BlueprintRace.jbp

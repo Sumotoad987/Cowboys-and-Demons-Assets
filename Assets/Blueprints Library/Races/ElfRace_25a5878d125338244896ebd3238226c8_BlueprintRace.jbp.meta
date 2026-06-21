@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2181a31b26697149b1654dd9f5ed6fb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 25a5878d125338244896ebd3238226c8
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/ElfRace_25a5878d125338244896ebd3238226c8_BlueprintRace.jbp

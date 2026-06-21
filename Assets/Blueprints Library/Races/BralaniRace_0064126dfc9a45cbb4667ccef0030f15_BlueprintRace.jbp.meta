@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6e71ab6cfb081b428f3355f68657129
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 0064126dfc9a45cbb4667ccef0030f15
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/BralaniRace_0064126dfc9a45cbb4667ccef0030f15_BlueprintRace.jbp

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2263b6e055b247147a757ea5d3f2e6b2, type: 3}
+  m_Name: PostProcessData
+  m_EditorClassIdentifier: 
+  Shaders:
+    StopNanPS: {fileID: 4800000, guid: 6118c2ca15c1df746a04e0c6cd09f415, type: 3}
+    SubpixelMorphologicalAntialiasingPS: {fileID: 4800000, guid: 6e4a9b1482b19ae40b40fd0fd1ac0ca1,
+      type: 3}
+    GaussianDepthOfFieldPS: {fileID: 4800000, guid: c9ee2d5148cd9714f8deb46da6f790bb,
+      type: 3}
+    BokehDepthOfFieldPS: {fileID: 4800000, guid: 340ccccba41301443ad31aa7e055decf,
+      type: 3}
+    CameraMotionBlurPS: {fileID: 4800000, guid: b759b88239e174147803ce4afb12937d,
+      type: 3}
+    PaniniProjectionPS: {fileID: 4800000, guid: 26993630109b3e74a9051e9046c432cc,
+      type: 3}
+    LutBuilderLdrPS: {fileID: 4800000, guid: 227874138e5bde649bf072ce9dcd12e5, type: 3}
+    LutBuilderHdrPS: {fileID: 4800000, guid: 36793f50397532047a8e73a5ad80d274, type: 3}
+    BloomPS: {fileID: 4800000, guid: a746d2dac73a4c442bf3f56c1704318d, type: 3}
+    BloomEnhancedPS: {fileID: 4800000, guid: 2b9def986724fb946ae5372f408fb110, type: 3}
+    RadialBlurPS: {fileID: 4800000, guid: 8b84452ebab190e4983d0bb691817f26, type: 3}
+    SaturationOverlayPS: {fileID: 4800000, guid: b8cb733e24064d2985bad1c97368c2c1,
+      type: 3}
+    MaskedColorTransformPS: {fileID: 4800000, guid: f3ea3a6669fb41f4b9ebbdae4732c583,
+      type: 3}
+    UberPostPS: {fileID: 4800000, guid: 705ba41a6ca24d64391ef62d2965a1eb, type: 3}
+    FinalPostPassPS: {fileID: 4800000, guid: e8169c29f2c719b4fbc6cd15922ebf78, type: 3}
+    DaltonizationPS: {fileID: 4800000, guid: d9bfc5dc8e281b34291a273177f28bf3, type: 3}
+  Textures:
+    BlueNoise16LTex:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    FilmGrainTex:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    SmaaAreaTex: {fileID: 2800000, guid: d1f1048909d55cd4fa1126ab998f617e, type: 3}
+    SmaaSearchTex: {fileID: 2800000, guid: 51eee22c2a633ef4aada830eed57c3fd, type: 3}

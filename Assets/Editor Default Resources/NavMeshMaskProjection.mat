@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NavMeshMaskProjection
+  m_Shader: {fileID: 4800000, guid: 3995c81850861294c8e87541440f815d, type: 3}
+  m_ShaderKeywords: _SUBSTRACTALPHAFLAG_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorAlphaRamp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MasksMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise0Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise1Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaScale: 0.5
+    - _Alphatest: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _ColorAlphaRampEnabled: 0
+    - _CullMode: 2
+    - _Cutoff: 0
+    - _DecalEmissionIntensity: 1
+    - _DecalEmissionMapUsage: 1
+    - _DecalEmissionUseColorFactor: 0
+    - _DecalExpGradient: 0
+    - _DecalGradientMode: 0
+    - _DecalOutputMask: 1
+    - _DecalSlopeFadePower: 1
+    - _DecalSlopeFadeStart: 1
+    - _DoubleSided: 0
+    - _DoubleSidedNormalMode: 1
+    - _DstBlend: 0
+    - _Emission: 0
+    - _EmissionColorFactor: 1
+    - _EmissionEnabled: 0
+    - _EnvironmentReflections: 1
+    - _GpuSkinning: 0
+    - _GradientFade: 0
+    - _HdrColorScale: 1
+    - _LightmapEmissionFlags: 0
+    - _MainTex1Weight: 1
+    - _Metallic: 0
+    - _Noise0Enabled: 0
+    - _Noise0Scale: 0
+    - _Noise1Enabled: 0
+    - _Noise1Scale: 0
+    - _NoiseUvCorrectionEnabled: 0
+    - _RampAlbedoWeight: 0
+    - _RampScrollSpeed: 0
+    - _ReceiveDecals: 0
+    - _ReceiveShadows: 1
+    - _Roughness: 1
+    - _SlopeFade: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SubstractAlphaFlag: 0
+    - _Surface: 0
+    - _Tex1Enabled: 0
+    - _Tex1MixMode: 1
+    - _Thickness: 1
+    - _ThicknessSharpness: 1
+    - _Translucent: 0
+    - _UvMapping: 0
+    - _ZTest: 3
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DecalEmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionUVSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _Noise0Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _Noise1Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _UV0Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _UV1Speed: {r: 0, g: 0, b: 0, a: 0}

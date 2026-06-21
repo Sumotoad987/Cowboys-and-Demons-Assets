@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eed9db8146d2e3548a8acb6c13664655
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: gunassets_content
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: eed9db8146d2e3548a8acb6c13664655
+    Data: {fileID: -8236871165307875752, guid: eed9db8146d2e3548a8acb6c13664655, type: 3}
+    LoadedFromPath: Assets/Modifications/GunsAssets/Blueprints/SampleMusket.jbp

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c0ca1b733fa7bd4caf722f3c799ecdb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: ef35a22c9a27da345a4528f0d5889157
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/GnomeRace_ef35a22c9a27da345a4528f0d5889157_BlueprintRace.jbp

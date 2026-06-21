@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30da913478a339341b5d750b4095ad67, type: 3}
+  m_Name: MediumOffsetsConfig
+  m_EditorClassIdentifier: 
+  offsets:
+  - Races:
+    - guid: b7f02ba92b363064fb873963bec275ee
+    - guid: 64e8b7d5f1ae91d45bbf1e56a3fdff01
+    - guid: b3646842ffbd01643ab4dac7479b20b0
+    - guid: 0a5d473ead98b0646b94495af250fdc4
+    - guid: fd188bb7bb0002e49863aec93bfb9d99
+    - guid: daca06a3f3355664bba1e87e67f3b5b3
+    - guid: 5c4e42124dc2b4647af6e36cf2590500
+    - guid: 56f58bf7ee0f4bbb951f98045c6b6d8f
+    - guid: 74bd4b4e5d3c4c2e86cc447d19c3ecc0
+    - guid: 5e464d1d5fd0e7a4380b6ce60ef2c83b
+    RootPosition: {x: 0, y: 0.845, z: 0.2}
+    RootBattlePosition: {x: 0, y: 1.223, z: 0.285}
+    SaddleRootPosition: {x: -0.007936369, y: 0.13072437, z: 0.15653156}
+    SaddleRootScale: {x: 1.1028804, y: 1.1028805, z: 1.1028805}
+    SaddleRootRotation: {x: -1.110223e-16, y: -0, z: -0, w: -1}
+    PelvisPosition: {x: 0, y: 0.361, z: 0.065}
+    PelvisRotation: {x: -6.0824794e-17, y: -0.999978, z: 0.0066336785, w: -6.1637185e-17}
+    LeftFootPosition: {x: 0.42500138, y: -0.35061085, z: -0.107436344}
+    LeftFootRotation: {x: 0.37288138, y: -0.63230526, z: 0.06351272, w: -0.67610335}
+    LeftKneePosition: {x: 0.3860009, y: 0.0652031, z: -0.274968}
+    RightFootPosition: {x: -0.42500028, y: -0.35061085, z: -0.107437596}
+    RightFootRotation: {x: -0.7036507, y: -0.15172827, z: -0.63643205, w: -0.27714363}
+    RightKneePosition: {x: -0.3860012, y: 0.06520308, z: -0.2749695}
+    HandsPosition: {x: -0, y: 0.5108, z: -0.5856}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7
+  - Races:
+    - guid: c4faf439f0e70bd40b5e36ee80d06be7
+    RootPosition: {x: -0.00000016298145, y: 1.4211513, z: 0.21500036}
+    RootBattlePosition: {x: 0, y: 0, z: 0}
+    SaddleRootPosition: {x: -0, y: 0.121, z: 0.172}
+    SaddleRootScale: {x: 1.1028804, y: 1.1028805, z: 1.1028805}
+    SaddleRootRotation: {x: -1.110223e-16, y: -0, z: -0, w: -1}
+    PelvisPosition: {x: 0, y: 0.346, z: 0.109}
+    PelvisRotation: {x: -6.143998e-17, y: -0.9999943, z: -0.003396781, w: -6.1023986e-17}
+    LeftFootPosition: {x: 0.39399922, y: 0.07084885, z: -0.06967958}
+    LeftFootRotation: {x: 0.463528, y: -0.5835679, z: -0.106539614, w: -0.6582094}
+    LeftKneePosition: {x: 0.31400007, y: 0.27511466, z: -0.25529727}
+    RightFootPosition: {x: -0.39399865, y: 0.07084885, z: -0.069680415}
+    RightFootRotation: {x: -0.7027347, y: 0.020579172, z: -0.59638894, w: -0.38737667}
+    RightKneePosition: {x: -0.3139989, y: 0.27511466, z: -0.25529715}
+    HandsPosition: {x: -0, y: 0.482, z: -0.505}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7
+  - Races:
+    - guid: 25a5878d125338244896ebd3238226c8
+    RootPosition: {x: -0, y: 0.8, z: 0.296}
+    RootBattlePosition: {x: 0, y: 0, z: 0}
+    SaddleRootPosition: {x: 0, y: 0.102, z: 0.151}
+    SaddleRootScale: {x: 1.102881, y: 1.1028805, z: 1.1028805}
+    SaddleRootRotation: {x: -1.110223e-16, y: -0, z: -0, w: -1}
+    PelvisPosition: {x: 0, y: 0.34, z: 0.05}
+    PelvisRotation: {x: 0, y: 0, z: 0, w: 1}
+    LeftFootPosition: {x: 0.43800154, y: -0.37134436, z: -0.009640292}
+    LeftFootRotation: {x: -0.4096264, y: 0.55404806, z: -0.261468, w: 0.67592275}
+    LeftKneePosition: {x: 0.38699836, y: 0.008663263, z: -0.2940554}
+    RightFootPosition: {x: -0.4380002, y: -0.37134436, z: -0.009640024}
+    RightFootRotation: {x: 0.71011096, y: 0.32799572, z: 0.50949305, w: 0.3585778}
+    RightKneePosition: {x: -0.3869998, y: 0.008663257, z: -0.29405576}
+    HandsPosition: {x: 0, y: 0.539, z: -0.552}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7
+  - Races:
+    - guid: ef35a22c9a27da345a4528f0d5889157
+    RootPosition: {x: -0, y: 1.274, z: 0.157}
+    RootBattlePosition: {x: 0, y: 0, z: 0}
+    SaddleRootPosition: {x: 0.005, y: 0.134, z: 0.223}
+    SaddleRootScale: {x: 1.1028804, y: 1.1028805, z: 1.1028805}
+    SaddleRootRotation: {x: -1.110223e-16, y: -0, z: -0, w: -1}
+    PelvisPosition: {x: 0, y: 0.31017607, z: 0.037521962}
+    PelvisRotation: {x: -6.0399206e-17, y: -0.9999087, z: 0.013514717, w: -6.2054276e-17}
+    LeftFootPosition: {x: 0.34600013, y: 0.08963406, z: -0.05355064}
+    LeftFootRotation: {x: 0.50856525, y: -0.5922388, z: -0.09944833, w: -0.61702895}
+    LeftKneePosition: {x: 0.20900062, y: 0.26562274, z: -0.16734853}
+    RightFootPosition: {x: -0.3459989, y: 0.08963407, z: -0.05355022}
+    RightFootRotation: {x: -0.66338974, y: 0.022996224, z: -0.6106451, w: -0.43185398}
+    RightKneePosition: {x: -0.20899951, y: 0.26562276, z: -0.16734841}
+    HandsPosition: {x: 0, y: 0.37043303, z: -0.18318689}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7
+  - Races:
+    - guid: b0c3ef2729c498f47970bb50fa1acd30
+    RootPosition: {x: 0, y: 1.427, z: 0.171}
+    RootBattlePosition: {x: 0, y: 0, z: 0}
+    SaddleRootPosition: {x: 0.005, y: 0.134, z: 0.223}
+    SaddleRootScale: {x: 1.1028804, y: 1.1028805, z: 1.1028805}
+    SaddleRootRotation: {x: -1.110223e-16, y: -0, z: -0, w: -1}
+    PelvisPosition: {x: 0, y: 0.31620237, z: 0.06961566}
+    PelvisRotation: {x: -6.152129e-17, y: -0.9999888, z: -0.0047301096, w: -6.094203e-17}
+    LeftFootPosition: {x: 0.2899991, y: 0.15269493, z: -0.088937834}
+    LeftFootRotation: {x: 0.43267047, y: -0.5061001, z: -0.10756022, w: -0.73830193}
+    LeftKneePosition: {x: 0.19200042, y: 0.29987395, z: -0.14944844}
+    RightFootPosition: {x: -0.28999984, y: 0.15269491, z: -0.088937536}
+    RightFootRotation: {x: -0.73390806, y: 0.1641068, z: -0.5024235, w: -0.42663643}
+    RightKneePosition: {x: -0.19200015, y: 0.29987398, z: -0.14944778}
+    HandsPosition: {x: 0, y: 0.363029, z: -0.22895487}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7
+  - Races:
+    - guid: 1dc20e195581a804890ddc74218bfd8e
+    RootPosition: {x: 0.01, y: 0.462, z: 0.036}
+    RootBattlePosition: {x: 0, y: 0, z: 0}
+    SaddleRootPosition: {x: -0.007936369, y: 0.13072437, z: 0.15653156}
+    SaddleRootScale: {x: 1.1028804, y: 1.1028805, z: 1.1028805}
+    SaddleRootRotation: {x: -1.110223e-16, y: -0, z: -0, w: -1}
+    PelvisPosition: {x: -0.0070009637, y: 0.16048297, z: -0.17918316}
+    PelvisRotation: {x: -0.7314592, y: -0.0000000015183832, z: -0.000000059585293,
+      w: -0.68188524}
+    LeftFootPosition: {x: -0.203, y: -0.261, z: -0.046}
+    LeftFootRotation: {x: -0.1849054, y: 0.7623771, z: 0.31768483, w: -0.5326046}
+    LeftKneePosition: {x: -0.273, y: -0.047, z: 0.212}
+    RightFootPosition: {x: 0.199, y: -0.267, z: -0.048}
+    RightFootRotation: {x: -0.5583836, y: -0.19607265, z: 0.7268118, w: 0.34857982}
+    RightKneePosition: {x: 0.271, y: -0.047, z: 0.212}
+    HandsPosition: {x: -0, y: 0.375, z: 0.154}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7
+  - Races:
+    - guid: 4d4555326b9b7144f93be1ea61337cd7
+    RootPosition: {x: 0, y: 1, z: 0.178}
+    RootBattlePosition: {x: 0, y: 0, z: 0}
+    SaddleRootPosition: {x: -0.007936369, y: 0.13072437, z: 0.15653156}
+    SaddleRootScale: {x: 1.1028804, y: 1.1028805, z: 1.1028805}
+    SaddleRootRotation: {x: -1.110223e-16, y: -0, z: -0, w: -1}
+    PelvisPosition: {x: -0, y: 0.345, z: 0.057}
+    PelvisRotation: {x: -6.13441e-17, y: -0.99999833, z: -0.001826766, w: -6.112039e-17}
+    LeftFootPosition: {x: 0.444, y: -0.168, z: -0.153}
+    LeftFootRotation: {x: 0.40154418, y: -0.52337873, z: 0.10739208, w: -0.7438441}
+    LeftKneePosition: {x: 0.355, y: 0.226, z: -0.343}
+    RightFootPosition: {x: -0.44399983, y: -0.16800003, z: -0.15299964}
+    RightFootRotation: {x: -0.7500664, y: -0.111679055, z: -0.59013456, w: -0.27689263}
+    RightKneePosition: {x: -0.355, y: 0.226, z: -0.343}
+    HandsPosition: {x: 0, y: 0.506, z: -0.619}
+    PelvisPositionWeight: 0.9
+    PelvisRotationWeight: 1
+    FootsPositionWeight: 1
+    FootsRotationWeight: 1
+    KneesBendWeight: 1
+    HandsPositionWeight: 1
+    HandsMappingWeight: 0.7

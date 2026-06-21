@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1dba32a537b00c5449f023fc252eaba6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 24cccae43dd64f0ebf674d229ad217d0
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/ErinyesRace_24cccae43dd64f0ebf674d229ad217d0_BlueprintRace.jbp

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20bb272538280a74fbff8b09fdae117a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: b7f02ba92b363064fb873963bec275ee
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/AasimarRace_b7f02ba92b363064fb873963bec275ee_BlueprintRace_b7f02ba92b363064fb873963bec275ee_BlueprintRace.jbp

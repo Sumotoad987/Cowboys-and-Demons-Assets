@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aef5603b91b8de345a2f4dafcd2c3f2c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: b9668860eed943eca2419fd8c371f481
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/ZombiesRace_b9668860eed943eca2419fd8c371f481_BlueprintRace.jbp

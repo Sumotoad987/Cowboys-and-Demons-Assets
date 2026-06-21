@@ -1,0 +1,85 @@
+{
+  "AssetId": "84a07e2c12cc3b2469d57c7a348d4858",
+  "Data": {
+    "$type": "579ddce9e6b6d8e44b05e0715cc66741, BlueprintItemArmor",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "43f625560fee8c841b17e6c48691119e, EquipmentRestrictionClass",
+        "m_Flags": 0,
+        "name": "$EquipmentRestrictionClass$2b6c0110-c637-44c8-b3a9-40ba9e89b22b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Class": "!bp_01a754e7c1b7c5946ba895a5ff0faffc",
+        "Not": true
+      }
+    ],
+    "Comment": "",
+    "m_DisplayNameText": {
+      "m_Key": "8d10de6b-4ff1-45e2-96f1-ab00184f72cd",
+      "Shared": null
+    },
+    "m_DescriptionText": {
+      "m_Key": "9fb43ad0-9a74-4f49-a662-755634a51176",
+      "Shared": null
+    },
+    "m_FlavorText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_Cost": 165300,
+    "m_Weight": 0.0,
+    "m_IsNotable": false,
+    "m_IsJunk": false,
+    "m_ForceStackable": false,
+    "m_Destructible": true,
+    "m_ShardItem": null,
+    "m_MiscellaneousType": "None",
+    "m_InventoryPutSound": "",
+    "m_InventoryTakeSound": "",
+    "NeedSkinningForCollect": false,
+    "TrashLootTypes": [],
+    "CR": 19,
+    "m_Ability": null,
+    "m_ActivatableAbility": null,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesOnRest": true,
+    "CasterLevel": 9,
+    "SpellLevel": 5,
+    "DC": 14,
+    "HideAbilityInfo": false,
+    "IsNonRemovable": false,
+    "m_EquipmentEntity": "!bp_047c3595e89a9da4eb814d7441b8564f",
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": 0,
+    "m_Type": "!bp_aae2cb63162d6334b9a9150398124d46",
+    "m_Size": "Medium",
+    "m_VisualParameters": {
+      "m_SoundType": "None",
+      "m_InventoryEquipSound": "",
+      "m_InventoryPutSound": "",
+      "m_InventoryTakeSound": "",
+      "m_AnimationFoleySound": "",
+      "m_OverrideMissEffect": null
+    },
+    "m_Enchantments": [
+      "!bp_6628f9d77fd07b54c911cd8930c0d531",
+      "!bp_d65afa0a7dcd9f441bdbd86e95115be4"
+    ],
+    "m_OverrideShardItem": false,
+    "m_OverrideDestructible": false
+  }
+}

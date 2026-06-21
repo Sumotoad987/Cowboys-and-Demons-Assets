@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 561486cd981dea9459e1a800582f3c9b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 5c4e42124dc2b4647af6e36cf2590500
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/TieflingRace_5c4e42124dc2b4647af6e36cf2590500_BlueprintRace.jbp

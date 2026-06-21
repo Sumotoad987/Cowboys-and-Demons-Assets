@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 593291101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d552cd1a6182eb75a9011a2406e16a9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6671ae265f138eb554d39690e03d4e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -379881634, guid: 6eb68bf6de6a47c4fadaf1c65a6800eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd2115826a394464586318a97f2c47b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e221a3f2af93944397bac7d7a9c003c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6caaf7bd30a6c44790d4fd9a7f5ba70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1aac4ab29cbe1240a8ea8ad1fd494c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Bssembly-CSharp2.dll
+  ClassName: Ex.Kingmaker.View.Equipment.EquipmentOffsets/Offsets
+- AssemblyName: Bssembly-CSharp2.dll
+  ClassName: Ex.Kingmaker.Visual.Particles.FxBone
+- AssemblyName: Bssembly-CSharp2.dll
+  ClassName: Ex.Kingmaker.Visual.Particles.TrailBonesPair
+Assets:
+- Assets/Modifications/Test/MaterialFix.asset
+- Assets/Modifications/Test/WP_SwordBastardOversizedArmagScabbard.prefab
+- Assets/Modifications/Test/WP_SwordBastardOversizedArmag.prefab
+- Assets/Modifications/Test/WP_SwordBastardOversizedArmag_Armag.png
+- Assets/Modifications/Test/ArmagSword.mat
+Dependencies: []

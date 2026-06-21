@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba6aa5a2eb1d63c4789d20b3c412f7da
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 4d4555326b9b7144f93be1ea61337cd7
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/OreadRace_4d4555326b9b7144f93be1ea61337cd7_BlueprintRace.jbp

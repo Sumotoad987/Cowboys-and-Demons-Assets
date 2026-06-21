@@ -1,0 +1,19 @@
+{
+    "name": "Shaders.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1ae73a3f1ba222e40913ac1ae8b9a9cc",
+        "GUID:7b358220a3884d23b418841b21c32544"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

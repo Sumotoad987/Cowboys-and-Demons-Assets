@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04e981e8d50a9154eaf670b8299ebe2f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 980bed7f6d9e4c33a86b95d199eb4934
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/CambionRace_980bed7f6d9e4c33a86b95d199eb4934_BlueprintRace.jbp

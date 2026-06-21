@@ -1,0 +1,101 @@
+{
+  "AssetId": "36b9974a5f9249a08e0aacab25b4a523",
+  "Data": {
+    "$type": "9a3d49fbb9d4c174d8ec1090679fe3e3, BlueprintRace",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": [],
+    "SoundKey": "",
+    "RaceId": "Human",
+    "SelectableRaceStat": false,
+    "Size": "Small",
+    "m_Features": [],
+    "m_Presets": [
+      "!bp_5170ee257c2f4759a58222350d5ac5f1",
+      "!bp_06c3c01bc0f14954b85d8ab4430d8807"
+    ],
+    "LinkHairAndSkinColorsCondition": null,
+    "MaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "95da445819ab073439a31dde22c3f5ce"
+        }
+      ],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "FemaleOptions": {
+      "m_Heads": [],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "MaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": false,
+      "SlowWalkCoeff": 1.0,
+      "OverrideSlowWalkNonCombat": false,
+      "SlowWalkNonCombatCoeff": 1.0,
+      "OverrideNormal": false,
+      "NormalCoeff": 1.0,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": false,
+      "ChargeCoeff": 1.0,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "FemaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": false,
+      "SlowWalkCoeff": 1.0,
+      "OverrideSlowWalkNonCombat": false,
+      "SlowWalkNonCombatCoeff": 1.0,
+      "OverrideNormal": false,
+      "NormalCoeff": 1.0,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": false,
+      "ChargeCoeff": 1.0,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "SpecialDollTypes": []
+  }
+}

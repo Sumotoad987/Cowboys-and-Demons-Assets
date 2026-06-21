@@ -1,0 +1,36 @@
+{
+  "AssetId": "36ca4559e9fbe7a4d9a970ab701aaaae",
+  "Data": {
+    "$type": "c8ff73feae580b142a9f43e0c61d7f32, BlueprintDialog",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "FirstCue": {
+      "Cues": [
+        "!bp_c4f620cab98a5a747a2ecf63f2afe888",
+        "!bp_cedafa6accf27104aa8e54df33b68ff3"
+      ],
+      "Strategy": "First"
+    },
+    "StartPosition": null,
+    "Conditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "StartActions": {
+      "Actions": []
+    },
+    "FinishActions": {
+      "Actions": []
+    },
+    "ReplaceActions": {
+      "Actions": []
+    },
+    "TurnPlayer": true,
+    "TurnFirstSpeaker": true,
+    "IsLockCameraRotationButtons": false,
+    "Type": "Common",
+    "m_OverrideAreaCR": null
+  }
+}

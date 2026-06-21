@@ -1,0 +1,156 @@
+{
+"AssetId": "868d4d9441ff4e029d94085f97057c14",
+"Data":
+{
+  "$type": "856d2f6e26e25c04fad05a1429d1b579, KingmakerEquipmentEntity",
+  "PrototypeLink": "",
+  "m_Overrides": [],
+  "Components": [],
+  "Comment": "",
+  "m_MaleArray": [],
+  "m_FemaleArray": [],
+  "m_RaceDependent": true,
+  "m_RaceDependentArrays": [
+    {
+      "MaleArray": [
+        {
+          "AssetId": "b47a8487b80e12d4a91fb2e3075ca451"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "43e2e3465a79d834fb3d654e3c8c865d"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "470e38d1d21e35f48a27c14355255fba"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "e9794a8b842da2342bba87d3fa54b318"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "4e04b742e14bd1b45bcbb6aa4b803caa"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "ef191d1dfbdb8a642b3b6aa825f2515f"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "e0fa0f17cc708bd47aa693adca2cb21d"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "d743160a23244dc47872f68109201c80"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "f4a3f1073e1b3944ea7e3524b502fcb7"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "f6b6ed9f1b775c743ab88d17142ef2bb"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "40b240e602205e34097f80d2e240909b"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "41683f8054423d84db454acde6e8ab71"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "77e1d9f0d66b8ad4bb2a09681f3a37e1"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "f1563e52dc0344d4cb3874044efae2b5"
+        }
+      ]
+    },
+    {
+      "MaleArray": [],
+      "FemaleArray": []
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "b47a8487b80e12d4a91fb2e3075ca451"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "d9fa026df9d61c347914e61dd3c18b29"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "b83be8514f0578248a0131680ab692b5"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "c25fec07802cfaa44ba74889eafe8d39"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "9c47856ee3ff0db45b50983e240e1eb7"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "666e8a6df80082848bce065fa53fb393"
+        }
+      ]
+    },
+    {
+      "MaleArray": [
+        {
+          "AssetId": "b47a8487b80e12d4a91fb2e3075ca451"
+        }
+      ],
+      "FemaleArray": [
+        {
+          "AssetId": "d9fa026df9d61c347914e61dd3c18b29"
+        }
+      ]
+    },
+    {
+      "MaleArray": [],
+      "FemaleArray": []
+    }
+  ]
+}
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 21fe99a92438c4a4e887c0bc210fbaa1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: cd40ff5a556bcf3419bf7479616cd2ad
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/DuergarRace_cd40ff5a556bcf3419bf7479616cd2ad_BlueprintRace.jbp

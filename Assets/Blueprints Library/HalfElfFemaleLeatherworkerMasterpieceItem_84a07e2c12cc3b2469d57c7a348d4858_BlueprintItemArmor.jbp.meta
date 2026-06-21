@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b109927f6f7d2644a6b943cfb5da9e5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 84a07e2c12cc3b2469d57c7a348d4858
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/HalfElfFemaleLeatherworkerMasterpieceItem_84a07e2c12cc3b2469d57c7a348d4858_BlueprintItemArmor.jbp

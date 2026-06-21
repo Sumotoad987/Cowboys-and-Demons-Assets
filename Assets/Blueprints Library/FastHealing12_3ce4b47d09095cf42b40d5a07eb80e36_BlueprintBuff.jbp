@@ -1,0 +1,59 @@
+{
+  "AssetId": "3ce4b47d09095cf42b40d5a07eb80e36",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddEffectFastHealing$6ae3afaa-9b34-450a-8c08-c66728212cf4"
+    ],
+    "Components": [
+      {
+        "$type": "9d4672af30f00454283d77f755545363, AddEffectFastHealing",
+        "m_Flags": 0,
+        "name": "$AddEffectFastHealing$6ae3afaa-9b34-450a-8c08-c66728212cf4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "Heal": 12,
+        "Bonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level",
+          "PropertyName": "Value1"
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": true,
+    "m_DisplayName": {
+      "m_Key": "8089f227-078e-4c8e-94e4-1ad11c204e99",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "a25b63e0-7b6a-4393-b8ee-53c0c02150ef",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "00000000000000000000000000000000",
+      "fileid": 3068497665674784903
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

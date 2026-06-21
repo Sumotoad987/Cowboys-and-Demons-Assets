@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9525f6f9eb0c9bd45831bc359ec667e2, type: 3}
+  m_Name: AnimationEventWindowModelCache
+  m_EditorClassIdentifier: 
+  m_List:
+  - Clip: b41b6dd14847c84419846e5d06306754Human_2H_Bow_OC
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: da71c95f802c75149b3cbf269395972eHuman_2H_slashing_sword_Cast_action_point
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: b41b6dd14847c84419846e5d06306754Human_2H_Bow_Equip
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 3022d8f3b94291044955afeca74cadb7Human_2H_slashing_sword_Defence
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: da71c95f802c75149b3cbf269395972eHuman_2H_slashing_sword_drinking_potion
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: da71c95f802c75149b3cbf269395972eHuman_2H_slashing_sword_Into_Alchemist_Extract
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: "da71c95f802c75149b3cbf269395972eHuman_2H_slashing_sword_Into_Pre_\u0421ast"
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 40cbe6caa29f9664e9b28f2ad71afb77Human_2H_Bow_Microidle_01
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: f5a309f88c077e54791d55c930d6d135Human_2H_Bow_dodge
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 57b3b0a3a8a950448bbbb4dd9b573393Troll_Bite_attack
+    Model: dda907994474307459409b770e7a5120
+  - Clip: bc253e5cdc84a8d49be5be879690b4d6Troll_Bite_attack
+    Model: dda907994474307459409b770e7a5120
+  - Clip: 4f461293a5ad49b498f4ec43381adec0Troll_Bite_attack
+    Model: dda907994474307459409b770e7a5120
+  - Clip: 5b2c815343257c24897ad7324a987b06Troll_Bite_attack_huge
+    Model: dda907994474307459409b770e7a5120
+  - Clip: 2a55cf6cd51dc56418cc39fa5ba6a653Troll_Boss_Attack_bite
+    Model: dda907994474307459409b770e7a5120
+  - Clip: 7c927849deb264e478ee647d039848fbTroll_Boss_Attack_bite
+    Model: dda907994474307459409b770e7a5120
+  - Clip: da71c95f802c75149b3cbf269395972eHuman_2H_slashing_sword_Alchemist_Extract
+    Model: dda907994474307459409b770e7a5120
+  - Clip: 3022d8f3b94291044955afeca74cadb7Human_2H_slashing_sword_attack
+    Model: dda907994474307459409b770e7a5120
+  - Clip: 3bfd468e8f17e78439cc72a63c86b6d2Human_2H_slashing_sword_attack_02
+    Model: dda907994474307459409b770e7a5120
+  - Clip: 3bfd468e8f17e78439cc72a63c86b6d2Human_2H_slashing_sword_dodge
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 3022d8f3b94291044955afeca74cadb7Human_2H_slashing_sword_Equip
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 3022d8f3b94291044955afeca74cadb7Human_2H_slashing_sword_IC
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 3022d8f3b94291044955afeca74cadb7Human_2H_slashing_sword_Idle
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: da71c95f802c75149b3cbf269395972eHuman_2H_slashing_sword_Into_Touching_Precast
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 4c3eddbe2c91fa74ba57fba630e36832Human_2H_slashing_sword_microidle_01
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 4c3eddbe2c91fa74ba57fba630e36832Human_2H_slashing_sword_microidle_02
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: 3022d8f3b94291044955afeca74cadb7Human_2H_slashing_sword_SpecialAttack
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: b41b6dd14847c84419846e5d06306754Human_2H_Bow_attack
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: d69527176244bfa4da8d2510b1f1192dthirdHandAttack
+    Model: 7592ab56556056945a95e6398ad31e4d
+  - Clip: aff9a981eb26d884aa8f5b8f5641e82eslamAttack_left
+    Model: 7592ab56556056945a95e6398ad31e4d
+  - Clip: 27fc220fd3e62fb448fe3ca91220e28fslamAttack_right
+    Model: 7592ab56556056945a95e6398ad31e4d
+  - Clip: 670335eda5434674daa6350a55661f4cHuman_sleeping_idle
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: cafc33717ce14a04a8c230e48e17de9cattackSpit
+    Model: bf901cce1dce1b9418f77979cfcd0b97
+  - Clip: 92de48f4ab00032489e4fe2bcdc9be67Touching
+    Model: aba054d6076177240b83c8773ce36a7b
+  - Clip: 0875af0cfd057c8409f64e54e5306b3fSpellCasting
+    Model: bf901cce1dce1b9418f77979cfcd0b97
+  - Clip: 1a7cb51efebf13e4aa62cd4cc220a73dKobold_Casting_on_yourself
+    Model: bf901cce1dce1b9418f77979cfcd0b97
+  - Clip: ab05e450a64bd23478471900a9dac7ccKobold_launching
+    Model: bf901cce1dce1b9418f77979cfcd0b97
+  - Clip: 774537ab505fbb3468e1c684a96cf8dcKobold_area_casting
+    Model: bf901cce1dce1b9418f77979cfcd0b97
+  - Clip: 60b0760b2cbba9b4ca44867eb6892887lizard_launching_projectiles
+    Model: 23aa4fab532f4e74384b0eb0496b7477
+  - Clip: f6831ba2a8f4a9b4687764e21bf57dbdlizard_area_around_self_omnicasting
+    Model: 23aa4fab532f4e74384b0eb0496b7477
+  - Clip: 5b4444559eea2cc45b19348f74928e59Soul_AnimEatSoul
+    Model: 23aa4fab532f4e74384b0eb0496b7477
+  - Clip: be0f9a8d248708247a26275d6703a62eSoul_AnimCastSpell
+    Model: 23aa4fab532f4e74384b0eb0496b7477
+  - Clip: e20568bda3590e440b7d973473012bf7Soul_AnimCastOmni
+    Model: 23aa4fab532f4e74384b0eb0496b7477
+  - Clip: 5414c7d2680f0d140ad0b4cd16e39c2fHuman_Paladin_Divine_Bond
+    Model: 744d62bf81a018340bbdbaf4f18c21d2
+  - Clip: f584566cfa481154981f927ac1a0fc1egiant_frog_attack_with_tongue
+    Model: f8063ba9cc9eb9148b477805c9286809
+  - Clip: e531cceb07381ca4892afc646a7ea344giant_frog_pull_with_tongue_start
+    Model: f8063ba9cc9eb9148b477805c9286809
+  - Clip: 847fc16878ee6a64ebd6e503feffd47dgiant_frog_pull_with_tongue_idle
+    Model: f8063ba9cc9eb9148b477805c9286809
+  - Clip: 15d3488c34ee8d74c9a35d817a81d9c8giant_frog_pull_with_tongue_out
+    Model: f8063ba9cc9eb9148b477805c9286809
+  - Clip: 50cc2e18ec637794884b9a8f33589f39BurrowIntoTheGround
+    Model: 6f7d9d50ab7c721489bcf28bcc19f76b
+  - Clip: e6df97acec2f22649bc6a35b0a1a64fe2H_HeavyHip_MHA_Attack_Plasma
+    Model: e5600f6fcf24f944d8846f2ba76cf91d

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81307204e20390549bb17f5d509b1509
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 36b9974a5f9249a08e0aacab25b4a523
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/GhoulRaceSmall_36b9974a5f9249a08e0aacab25b4a523_BlueprintRace.jbp

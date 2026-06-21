@@ -1,0 +1,228 @@
+{
+  "AssetId": "1dc20e195581a804890ddc74218bfd8e",
+  "Data": {
+    "$type": "9a3d49fbb9d4c174d8ec1090679fe3e3, BlueprintRace",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "3777e434-d2c7-46c7-953e-380b67a5d303",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "5775e987-5875-4e59-bbdc-aed4940dfeb0",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "SoundKey": "HalfOrc",
+    "RaceId": "HalfOrc",
+    "SelectableRaceStat": true,
+    "Size": "Medium",
+    "m_Features": [
+      "!bp_885f478dff2e39442a0f64ceea6339c9",
+      "!bp_6ab6c271d1558344cbc746350243d17d",
+      "!bp_c99f3405d1ef79049bd90678a666e1d7",
+      "!bp_9c747d24f6321f744aa1bb4bd343880d",
+      "!bp_8c3244440e0b4d1d9d9b182685cbacbd"
+    ],
+    "m_Presets": [
+      "!bp_aa0929877b81dfc4a9a8a43902701a15",
+      "!bp_ba5b547d3641a5b4f8ccdefc35009222",
+      "!bp_09433f75c36594d4e88e2cc122c6bbce"
+    ],
+    "LinkHairAndSkinColorsCondition": null,
+    "MaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "717e2297037cfe747b0dc68e30a29eed"
+        },
+        {
+          "AssetId": "eab410cf83fc51d40a8d3e602a15d821"
+        },
+        {
+          "AssetId": "1eb9b77c2561fed4f841cf16d7e5dfb1"
+        },
+        {
+          "AssetId": "1cb8a6d149f308b44a880b5f15fb4a9d"
+        }
+      ],
+      "m_Eyebrows": [
+        {
+          "AssetId": "9849deaae24f2b6478d4f8794dcda047"
+        },
+        {
+          "AssetId": "ac745cba03847ca4aaf5d9776108a8a7"
+        },
+        {
+          "AssetId": "ae7cdb7061d05ba478b9535b55a02cc5"
+        },
+        {
+          "AssetId": "b4983242e32e12a449cdc22ea37b40fd"
+        }
+      ],
+      "m_Hair": [
+        {
+          "AssetId": "f54ad7e7b212e9c408a0d0c8db2f6553"
+        },
+        {
+          "AssetId": "5a7cf42ad52a27b41970e59b5169d893"
+        },
+        {
+          "AssetId": "e8c406599ddec12468d2310ba8420f14"
+        },
+        {
+          "AssetId": "bfe521e258ee7b644bf6cca3ca988bf5"
+        },
+        {
+          "AssetId": "e51b3c4fa15baae45a13b5ad8e28c94b"
+        },
+        {
+          "AssetId": "095e60d6935c4c6479a94cff9880df07"
+        },
+        {
+          "AssetId": "a6ec284f75ea1f440a55447bb02cf90d"
+        },
+        {
+          "AssetId": "b85db19d7adf6aa48b5dd2bb7bfe1502"
+        }
+      ],
+      "Beards": [
+        {
+          "AssetId": "b85db19d7adf6aa48b5dd2bb7bfe1502"
+        },
+        {
+          "AssetId": "104a8dd332a5c2e4b9176475ddb7273b"
+        },
+        {
+          "AssetId": "9ddc4370b22405f43860ca11c58c1be2"
+        },
+        {
+          "AssetId": "b3e2b9e1f0d028c4bbb09b6c12f85f06"
+        },
+        {
+          "AssetId": "ed24c2cc9c5303148af482a0346f31ea"
+        },
+        {
+          "AssetId": "0514529c1387d8c4a803413ed49f7f09"
+        }
+      ],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "FemaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "263deaab2915da84d93e4c2733d1eda4"
+        },
+        {
+          "AssetId": "3395eea497b4c2f43a2044b82a4eb3c1"
+        },
+        {
+          "AssetId": "889e660bae2aa9f41a82c16c10ccfd1d"
+        },
+        {
+          "AssetId": "2469680c6a387cb46891c29e36915e28"
+        }
+      ],
+      "m_Eyebrows": [
+        {
+          "AssetId": "1ccdb39c81af9694790d6bc20743a0f5"
+        },
+        {
+          "AssetId": "102b124fd26468140a92c57b85d61562"
+        },
+        {
+          "AssetId": "5b73b8cf5a405c9488c9cea45293cc36"
+        },
+        {
+          "AssetId": "d041597dc58f55449a829fb6ecb3100c"
+        }
+      ],
+      "m_Hair": [
+        {
+          "AssetId": "37cbcead4468082438ee2b77ba4b9b38"
+        },
+        {
+          "AssetId": "5abd733990de55e4bbbd1fd83734dd0d"
+        },
+        {
+          "AssetId": "b060910ad6ad374448443af5b14dc387"
+        },
+        {
+          "AssetId": "7f2ea7fe76e725f4493bde6f3fb6c321"
+        },
+        {
+          "AssetId": "9356e94d2208cf540a34ff3a7c8f2267"
+        },
+        {
+          "AssetId": "6b1ddf341f07e49469a29a6b8571a1db"
+        },
+        {
+          "AssetId": "e780cdb097a1d154b9cf9635b191f832"
+        },
+        {
+          "AssetId": "5930529c9d8eaa041b457dd7a722dd32"
+        },
+        {
+          "AssetId": "b85db19d7adf6aa48b5dd2bb7bfe1502"
+        }
+      ],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "MaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 1.85,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 1.64,
+      "OverrideNormal": true,
+      "NormalCoeff": 0.75,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.45,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": true,
+      "StealthCoeff": 1.85,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "FemaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 1.82,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 1.6,
+      "OverrideNormal": true,
+      "NormalCoeff": 0.8,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.45,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": true,
+      "StealthCoeff": 1.82,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "SpecialDollTypes": []
+  }
+}

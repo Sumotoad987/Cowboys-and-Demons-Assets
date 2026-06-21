@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf0dcf8be6161d94183f11e47afa5c1b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: b0c3ef2729c498f47970bb50fa1acd30
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/HalflingRace_b0c3ef2729c498f47970bb50fa1acd30_BlueprintRace.jbp

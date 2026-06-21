@@ -1,0 +1,134 @@
+{
+  "AssetId": "cd40ff5a556bcf3419bf7479616cd2ad",
+  "Data": {
+    "$type": "9a3d49fbb9d4c174d8ec1090679fe3e3, BlueprintRace",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddStatBonus$1a4341f9-9925-4724-8832-5847323bbec8"
+    ],
+    "Components": [
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$1a4341f9-9925-4724-8832-5847323bbec8",
+        "Descriptor": "Racial",
+        "Stat": "Constitution",
+        "Value": 2,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$d15980e7-bed8-42ce-8882-4b738600eb9e",
+        "Descriptor": "Racial",
+        "Stat": "Wisdom",
+        "Value": 2,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$6500fc18-9fa7-4896-8d92-a83e551b49d8",
+        "Descriptor": "Racial",
+        "Stat": "Charisma",
+        "Value": -4,
+        "ScaleByBasicAttackBonus": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "SoundKey": "Dwarf",
+    "RaceId": "Dwarf",
+    "SelectableRaceStat": false,
+    "Size": "Medium",
+    "m_Features": [
+      "!bp_786588ad1694e61498e77321d4b07157",
+      "!bp_2f254c6068d58b643b8de2fc7ec32dbb",
+      "!bp_df39e25d887a89042a1b4810eac902d0",
+      "!bp_94ebce9b9836cfc4b8d781374a586377",
+      "!bp_354d977fb59a10c40a447c6d6f58b5d2"
+    ],
+    "m_Presets": [
+      "!bp_97887dd22770a8f4382fea706108ae1d",
+      "!bp_62d55ab200433cf48969742069082900",
+      "!bp_955e56e2035c3f44ca02d653b54d6c4c"
+    ],
+    "LinkHairAndSkinColorsCondition": null,
+    "MaleOptions": {
+      "m_Heads": [],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "FemaleOptions": {
+      "m_Heads": [],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "MaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 3.0,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 2.8,
+      "OverrideNormal": true,
+      "NormalCoeff": 1.3,
+      "OverrideNormalNonCombat": false,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.8,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": true,
+      "StealthCoeff": 3.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "FemaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 2.7,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 2.8,
+      "OverrideNormal": true,
+      "NormalCoeff": 1.3,
+      "OverrideNormalNonCombat": true,
+      "NormalNonCombatCoeff": 1.0,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.8,
+      "OverrideChargeNonCombat": true,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": true,
+      "StealthCoeff": 2.7,
+      "OverrideStealthNonCombat": true,
+      "StealthNonCombatCoeff": 3.2
+    },
+    "SpecialDollTypes": []
+  }
+}

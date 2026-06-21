@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9beae297dfeb73445b0432848d2eae50
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 3ce4b47d09095cf42b40d5a07eb80e36
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/FastHealing12_3ce4b47d09095cf42b40d5a07eb80e36_BlueprintBuff.jbp

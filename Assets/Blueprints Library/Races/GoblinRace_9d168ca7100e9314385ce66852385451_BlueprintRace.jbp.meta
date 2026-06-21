@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 540a4a5d7c42b8c42acc961578120322
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e135f5e91ccdf86478c913c0ecd36cda, type: 3}
+  wrapper:
+    AssetId: 9d168ca7100e9314385ce66852385451
+    Data: {instanceID: 0}
+    LoadedFromPath: Assets/Blueprints Library/GoblinRace_9d168ca7100e9314385ce66852385451_BlueprintRace.jbp

@@ -1,0 +1,176 @@
+{
+  "AssetId": "fd188bb7bb0002e49863aec93bfb9d99",
+  "Data": {
+    "$type": "9a3d49fbb9d4c174d8ec1090679fe3e3, BlueprintRace",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "b11a0ebe-e29b-4c96-bbd6-b7c6c8e0bad8",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "c1d4b662-77b6-4b59-8205-92ec29a5d28b",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_febb8fe9a2d142fb80c1be6b0b539d9d",
+      "!bp_5114829572da5a04f896a8c5b67be413",
+      "!bp_c032f65c0bd9f6048a927fb07fc0195d",
+      "!bp_d5050e13742d9b64da20921aaf7c2b2a",
+      "!bp_342b6aed6b2eaab4786de243f0bcbcb8",
+      "!bp_044cd84818c36854abf61064ade542a1",
+      "!bp_053e37697a0d20547b06c3dbd8b71702",
+      "!bp_041f91c25586d48469dce6b4575053f6",
+      "!bp_df186ef345849d149bdbf4ddb45aee35",
+      "!bp_cd258f1bce80ef54580f6b236c82608c"
+    ],
+    "SoundKey": "Human",
+    "RaceId": "Kitsune",
+    "SelectableRaceStat": false,
+    "Size": "Medium",
+    "m_Features": [
+      "!bp_ec40cc350b18c8c47a59b782feb91d1f",
+      "!bp_0b71c1a7941bfa4429e281245371efc6",
+      "!bp_9c747d24f6321f744aa1bb4bd343880d",
+      "!bp_32944d9af38d25342ad32dc1f407c714",
+      "!bp_88063b0ec1cbc8b499e313cde36a8519"
+    ],
+    "m_Presets": [
+      "!bp_f7c20e42f9e6dc140b71e4157db24e4d",
+      "!bp_8b88651f2c3f4a82aeb66f339e57c489",
+      "!bp_eed106c1251548aeb6eb51049686d032"
+    ],
+    "LinkHairAndSkinColorsCondition": null,
+    "MaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "f899a03df5f1be5448a40693a7ce3572"
+        },
+        {
+          "AssetId": "f7ccdeb39f9d45145b8a73dbd902aa6e"
+        },
+        {
+          "AssetId": "09629795c40f6874aa82e8545582595e"
+        },
+        {
+          "AssetId": "8227821b57a45cc499fd4586be79a7ba"
+        },
+        {
+          "AssetId": "be22df3367aa97e41806fc6fab31a976"
+        },
+        {
+          "AssetId": "7e3ab82670f15a045b767f5d6466f2a0"
+        },
+        {
+          "AssetId": "ab2f104d7da82b04096926588b1d9931"
+        },
+        {
+          "AssetId": "47009e9da206fea4d98ccffdd824de26"
+        },
+        {
+          "AssetId": "f425aeb797e5d2e47a9d197be278583f"
+        }
+      ],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "FemaleOptions": {
+      "m_Heads": [
+        {
+          "AssetId": "0412d70836fe0b947884dcaf8f345f22"
+        },
+        {
+          "AssetId": "187c2d326f6b1184eb985010ae35cc22"
+        },
+        {
+          "AssetId": "8661c51a25896ee40a724bcfa82fa05f"
+        },
+        {
+          "AssetId": "6123f562a2835e14a9b1405cf93686ba"
+        },
+        {
+          "AssetId": "b25c60a3e25c93c428f540c81bb6b55f"
+        },
+        {
+          "AssetId": "52a6af5594fe4644f8023b46034491dc"
+        },
+        {
+          "AssetId": "fe61066c32dce2746a8382eed3f800a9"
+        },
+        {
+          "AssetId": "3e06d6c73dbfc784faf21d5263e84881"
+        },
+        {
+          "AssetId": "b5557b26e1cb015439856936706e0f91"
+        }
+      ],
+      "m_Eyebrows": [],
+      "m_Hair": [],
+      "Beards": [],
+      "Horns": [],
+      "TailSkinColors": []
+    },
+    "MaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 2.0,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 1.8,
+      "OverrideNormal": true,
+      "NormalCoeff": 0.85,
+      "OverrideNormalNonCombat": true,
+      "NormalNonCombatCoeff": 0.85,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.5,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "FemaleSpeedSettings": {
+      "MovementSpeedCoeff": 1.0,
+      "OverrideSlowWalk": true,
+      "SlowWalkCoeff": 2.1,
+      "OverrideSlowWalkNonCombat": true,
+      "SlowWalkNonCombatCoeff": 1.8,
+      "OverrideNormal": true,
+      "NormalCoeff": 0.87,
+      "OverrideNormalNonCombat": true,
+      "NormalNonCombatCoeff": 0.87,
+      "OverrideCharge": true,
+      "ChargeCoeff": 0.5,
+      "OverrideChargeNonCombat": false,
+      "ChargeNonCombatCoeff": 1.0,
+      "OverrideStealth": false,
+      "StealthCoeff": 1.0,
+      "OverrideStealthNonCombat": false,
+      "StealthNonCombatCoeff": 1.0
+    },
+    "SpecialDollTypes": [
+      {
+        "Type": "KitsunePolymorph",
+        "m_Race": "!bp_0a5d473ead98b0646b94495af250fdc4"
+      }
+    ]
+  }
+}
