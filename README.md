@@ -1,3 +1,34 @@
+# Cowboys and Demons Assets
+
+The Wrath Template Mod which handles the 3d models for the maiun Cowboys and Demons mod.
+
+##Instalation Guide
+Hopefully Modfinder will be able to sort this out but for manual install it is important to note this mod had to be split into two parts. This repo contains only the assets and will do nothing on its own. The implementation is in the content mod: [Cowboys and Demons](https://github.com/Sumotoad987/Cowboys-and-Demons)
+All this is due to the fact that assets can only be added (with great difficulty) through a Wrath Template mod while much of the content was far easier to implement in a using Blueprint Core.
+(I intend to write a tutorial to explain how all this works in case anyone else wants to add 3d models to the game at a later stage)
+
+##This mod is a work in progress and has several known issues but most of the core features are functional.
+* Projectiles not working: Currently there is a bug when a character attacks with the weapon the game tries to fire a projectile but fails for reasons unknown. I've written a work around but it may have some unforeseen issues down the road.
+* Animations: The Musket and Rifle animate fairly well, though the hand positions can be a little fiddly. Pistols and Revolvers are a little off particularly if you try to dual wield them.
+* Dual Weilding: Whilst technically you can dual wield pistols and revolvers and mechanically most of that works the animation is dodge and the second pistol floats in the air pointing in random directions.
+
+##Attributions
+* "Flintlock Musket (no hands)" (https://skfb.ly/6TCDI) by Andy Woodhead is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Clement Percussion Revolver" (https://skfb.ly/6YHAY) by Feco is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Katana and early Japanese rifle" (https://skfb.ly/6U6RL) by patspet is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Flintlock pistol" (https://skfb.ly/6TNo8) by Cyril43 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+## Thanks to
+* Wolfie's [Modding Wiki](https://github.com/WittleWolfie/OwlcatModdingWiki/wiki) for getting me started.
+* Kurufinve for the Unity template needed to add assets to the game.
+* The many WotR mods out there on Github which I looked at for guidance.
+
+
+
+
+
+Preserving the old template readme for reference (not that not all of it will be correct)
+
 Getting started
 ===============
 
