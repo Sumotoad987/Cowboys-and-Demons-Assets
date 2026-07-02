@@ -1,6 +1,6 @@
 # Cowboys and Demons Assets
 
-The Wrath Template Mod which handles the 3d models for the maiun Cowboys and Demons mod.
+The Wrath Template Mod which handles the 3d models for the main Cowboys and Demons mod.
 
 ##Instalation Guide
 Hopefully Modfinder will be able to sort this out but for manual install it is important to note this mod had to be split into two parts. This repo contains only the assets and will do nothing on its own. The implementation is in the content mod: [Cowboys and Demons](https://github.com/Sumotoad987/Cowboys-and-Demons)
